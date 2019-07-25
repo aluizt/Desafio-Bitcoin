@@ -1,0 +1,6 @@
+
+rootProject.name = 'desafiobitcoins'
+include 'contract'
+include 'application'
+include 'implementation'
+
